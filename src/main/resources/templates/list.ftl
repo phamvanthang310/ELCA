@@ -30,7 +30,7 @@
         </p>
       </div>
       <div class="col-md-1 content">
-        <a class="active" href="#"><@spring.message "text.help"/></a>
+        <a class="active" href="#">Project of ThangPham</a>
      </div>
       <div class="col-md-1 content">
         <p>
