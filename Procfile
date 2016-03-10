@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar  target/on-boarding-exercise-0.0.1-SNAPSHOT.jar
